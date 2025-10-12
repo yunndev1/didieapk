@@ -1,6 +1,13 @@
 [
-     {
-       "username": "admin",
-       "password": "admin223"
-     }
+  {
+    "username": "admin",
+    "password": "admin223"
+  },
+  {
+    "username": "test",
+    "password": "test",
+    "role": "user",
+    "expiry": "permanent",
+    "createdAt": "2025-10-12T13:13:08.190Z"
+  }
 ]
