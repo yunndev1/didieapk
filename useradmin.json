@@ -23,5 +23,12 @@
     "username": "member1",
     "password": "memberpass",
     "role": "member"
+  },
+  {
+    "username": "mirz",
+    "password": "mirz001",
+    "role": "reseller",
+    "expiry": "permanent",
+    "createdAt": "2025-10-12T13:06:38.882Z"
   }
 ]
